@@ -29,12 +29,6 @@ This is a responsive, single-page portfolio website created using **HTML**, **CS
 I’m **Balram Prajapati**, a B.Tech student with a passion for building web applications and continuously improving my skills. I enjoy learning modern tools, working on impactful projects, and contributing to real-world applications.
 
 ## 📂 Folder Structure
-
-##🛠️ How to Use
-git clone https://github.com/balram04/balramportfolio.github.io.git
-cd balramportfolio.github.io
-open index.html  # or double-click the file
-
 ```bash
 balramportfolio.github.io/
 │
