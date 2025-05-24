@@ -30,6 +30,11 @@ I’m **Balram Prajapati**, a B.Tech student with a passion for building web app
 
 ## 📂 Folder Structure
 
+##🛠️ How to Use
+git clone https://github.com/balram04/balramportfolio.github.io.git
+cd balramportfolio.github.io
+open index.html  # or double-click the file
+
 ```bash
 balramportfolio.github.io/
 │
@@ -41,8 +46,6 @@ balramportfolio.github.io/
 │   └── script.js           # JavaScript (if used)
 └── README.md               # This file
 
-🛠️ How to Use
-git clone https://github.com/balram04/balramportfolio.github.io.git
-cd balramportfolio.github.io
-open index.html  # or double-click the file
+---
+
 
