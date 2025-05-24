@@ -22,9 +22,7 @@ This is a responsive, single-page portfolio website created using **HTML**, **CS
 - ✅ Contact section with links to social profiles
 - ✅ Clean and modern UI layout
 
-## 📷 Preview
 
-![Portfolio Screenshot](assets/preview.png) <!-- Replace with actual image path or upload one -->
 
 ## 🧑‍💻 About Me
 
